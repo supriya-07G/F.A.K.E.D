@@ -21,10 +21,4 @@ The uploaded notebooks retain their original code, metadata and saved outputs. E
 4. Install the imported packages: PyTorch, torchvision, OpenCV, NumPy, pandas, matplotlib, seaborn, scikit-learn, tqdm and IPython.
 5. Review the data paths, sample limits, model settings and time budgets, then run cells in order.
 
-## Evaluation and artifacts
 
-The notebooks contain preprocessing, classification and segmentation experiments, metrics and plotting code. Generated crops, masks, checkpoints and plots are written to each notebook's configured working directory. Saved notebook outputs reflect the uploaded runs and are not a claim that every configuration has been rerun or independently validated.
-
-## Faculty submission
-
-The faculty form requires the Jupyter notebooks in a ZIP when submitting multiple files, the project report in Word format, and the report in PDF format. The GitHub repository is an additional code archive.
